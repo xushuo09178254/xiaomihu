@@ -10,7 +10,7 @@ int main()
 	{
 	
 		int i;
-		int isPrime = 1;  //x是素数 
+		int isPrime = 1;  //x脢脟脣脴脢媒 
 		for(i=2;i<x;i++){
 			if(x%i==0){
 				isPrime = 0;
@@ -20,9 +20,9 @@ int main()
 		if(isPrime==1){
 			printf("%d\n",x);
 			cnt++;
-			/*printf("是素数\n");
+			/*printf("脢脟脣脴脢媒\n");
 		}else{
-			printf("不是素数\n"); */
+			printf("虏禄脢脟脣脴脢媒\n"); */
 		}
 		x++;
     }
